@@ -1,0 +1,15 @@
+https://github.com/PracticalCodeAcademy/Map-layers
+
+https://www.youtube.com/watch?v=qNqxgSoknGg
+
+https://account.mapbox.com/
+
+https://leafletjs.com/
+
+https://www.youtube.com/playlist?list=PL86WBCjNmqh5HQInLsyYW7g76_6eKcQLf
+
+https://www.youtube.com/watch?v=Ldw3mFGyjDE
+
+https://studio.mapbox.com/tilesets/mapbox.satellite/#3/40.74/-73.92
+
+https://leafletjs.com/examples/quick-start/
