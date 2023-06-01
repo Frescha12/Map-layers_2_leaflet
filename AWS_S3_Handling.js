@@ -13,8 +13,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // Konfigurieren der AWS-Zugangsdaten
 AWS.config.update({
-    accessKeyId: 'AKIASKLN463ENM63TFRK',
-    secretAccessKey: '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'
+    accessKeyId: 
+    secretAccessKey: 
 });
 
 let continuationToken = undefined; // Initialisierung des Continuation Tokens
